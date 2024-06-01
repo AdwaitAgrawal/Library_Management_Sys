@@ -1,0 +1,89 @@
+innerright,label {
+    color: #C8DBBE;
+    font-weight:bold;
+}
+.container,
+.row,
+.imglogo {
+    margin:auto;
+}
+.tableChange{
+    display:flex;
+    justify-content:center;
+    item-align:center;
+    margin-top:10px;
+}
+
+
+.transparent{
+    text-align: center;
+    background-color: rgba(10, 10, 10, 0.77);
+}
+body{
+    display: block;
+    background-image: url("images/background.jpg");
+    background-size: 100%;
+}
+
+.innerdiv {
+    text-align: center;
+    /* width: 500px; */
+    margin: 100px;
+}
+input{
+    margin-left:20px;
+}
+.leftinnerdiv {
+    float: left;
+    width: 25%;
+    height: 450px;
+    padding: 10px;
+}
+
+.rightinnerdiv {
+    float: right;
+    width: 75%;
+}
+
+.innerright {
+    background-color: rgba(10,10,10,0.77);
+    height: 450px;
+    padding: 15px;
+}
+
+.greenbtn {
+    background-color: #A47E3B;
+    color: white;
+    width: 95%;
+    height: 40px;
+    margin-top: 8px;
+    font-weight:bold;
+}
+
+.greenbtn,
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+
+th{
+    color: #C8DBBE;
+}
+td{
+    text-align:left;
+    color: #C8DBBE;
+}
+td, a{
+    text-align:left;
+    color:#C8DBBE;
+}
+.pColor{
+    color: #C8DBBE;
+}
+.otheruser{
+    text-align: left;
+}
+.cellSpace{
+    cellspacing : 2px
+}
